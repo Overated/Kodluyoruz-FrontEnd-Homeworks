@@ -15,4 +15,4 @@ _This repo is [Patica.dev](https://www.patika.dev/tr) and [Kodluyoruz](https://w
 ---
 
 <a href="https://www.kodluyoruz.org">Kodluyoruz</a>
-<img height="auto" width="auto" src="https://github.com/Overated/Asian-Kitchen/blob/main/img/Readme.gif?raw=true" />
+<img height="auto" width="auto" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-1/img/preview.png" />
