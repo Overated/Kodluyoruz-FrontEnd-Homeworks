@@ -48,15 +48,15 @@ Inception is a 2010 science fiction action film written and directed by Christop
 
 # References
 
-[1][lord of the rings:series](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series))
+[1] [Lord of The Rings (Series)](<https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)>)
 <br>
-[2][lord of the rings:hobbits](https://en.wikipedia.org/wiki/The_Hobbit_(film_series))
+[2] [Lord of The Rings (Hobbits)](<https://en.wikipedia.org/wiki/The_Hobbit_(film_series)>)
 <br>
-[3][gladiator](https://en.wikipedia.org/wiki/Gladiator_(2000_film))
+[3] [Gladiator](<https://en.wikipedia.org/wiki/Gladiator_(2000_film)>)
 <br>
-[4][never back down](https://en.wikipedia.org/wiki/Never_Back_Down)
+[4] [Never Back Down](https://en.wikipedia.org/wiki/Never_Back_Down)
 <br>
-[5][inception](https://en.wikipedia.org/wiki/Inception)
+[5] [Inception](https://en.wikipedia.org/wiki/Inception)
 
 ---
 
