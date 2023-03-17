@@ -30,25 +30,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 **1.Filmler**
 
-- [Lord of The Rings:Series (2001-2014)]()
+- [Lord of The Rings:Series (2001-2014)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Lord_of_the_ring.png"></a>
 </p>
 
-- [Gladiator (2000)]()
+- [Gladiator (2000)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Gladiator.png"></a>
 </p>
 
-- Never Back Down (2008)
+- [Never Back Down (2008)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Never_back_down.jpg"></a>
 </p>
 
-- Inception (2010)
+- [Inception (2010)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Inception.jpg"></a>
@@ -56,25 +56,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 **2.Diziler**
 
-- Chuck (2007 - 2012)
+- [Chuck (2007 - 2012)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/chuck.jpg"></a>
 </p>
 
-- Game of Thrones (2011-2019)
+- [Game of Thrones (2011-2019)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/game_of_thrones.jpg"></a>
 </p>
 
-- The Blacklist (2013 - 2023)
+- [The Blacklist (2013 - 2023)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/The_Blacklist.jpg"></a>
 </p>
 
-- La Casa de Papel (2017 - 2021)
+- [La Casa de Papel (2017 - 2021)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/La_Casa_de_Papel.jpg"></a>
@@ -82,25 +82,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 **3.Kitaplar**
 
-- Siyah İnci (1877)
+- [Siyah İnci (1877)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/siyah_inci.jpeg"></a>
 </p>
 
-- Küçük Prens (1943)
+- [Küçük Prens (1943)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/kucuk_prens.jpg"></a>
 </p>
 
-- Warcraft: Durotan (2016)
+- [Warcraft: Durotan (2016)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft_durotan.jpg"></a>
 </p>
 
-- Warcraft (2016)
+- [Warcraft (2016)]()
 
 <p style="padding-left:25px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft.jpg"></a>

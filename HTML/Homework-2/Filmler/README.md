@@ -1,4 +1,4 @@
-## [Ana Sayfaya Dön]()
+## [Ana Sayfaya Dön](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2#atakan-ertek)
 
 ---
 
@@ -28,4 +28,4 @@
 
 ---
 
-## Ana Sayfaya Dön
+## [Ana Sayfaya Dön](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2#atakan-ertek)
