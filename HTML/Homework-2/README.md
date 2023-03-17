@@ -33,25 +33,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 - [Lord of The Rings:Series (2001-2014)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Lord_of_the_ring.png"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Lord_of_the_ring.png"></a>
 </p>
 
 - [Gladiator (2000)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Gladiator.png"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Gladiator.png"></a>
 </p>
 
 - [Never Back Down (2008)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Never_back_down.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Never_back_down.jpg"></a>
 </p>
 
 - [Inception (2010)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Inception.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Inception.jpg"></a>
 </p>
 
 **2.Diziler**
