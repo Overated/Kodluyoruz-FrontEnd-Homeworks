@@ -59,25 +59,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 - [Chuck (2007 - 2012)]()
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/chuck.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/chuck.jpg"></a>
 </p>
 
 - [Game of Thrones (2011-2019)]()
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/game_of_thrones.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/game_of_thrones.jpg"></a>
 </p>
 
 - [The Blacklist (2013 - 2023)]()
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/The_Blacklist.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/The_Blacklist.jpg"></a>
 </p>
 
 - [La Casa de Papel (2017 - 2021)]()
 
 <p style="padding-left:25px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/La_Casa_de_Papel.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/La_Casa_de_Papel.jpg"></a>
 </p>
 
 **3.Kitaplar**
