@@ -32,51 +32,51 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 - [Lord of The Rings:Series (2001-2014)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Lord_of_the_ring.png"></a>
 </p>
 
 - [Gladiator (2000)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Gladiator.png"></a>
 </p>
 
 - [Never Back Down (2008)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Never_back_down.jpg"></a>
 </p>
 
 - [Inception (2010)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Filmler#sevdi%C4%9Fim-filmler" title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/Inception.jpg"></a>
 </p>
 
 **2.Diziler**
 
-- [Chuck (2007 - 2012)]()
+- [Chuck (2007 - 2012)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/chuck.jpg"></a>
 </p>
 
-- [Game of Thrones (2011-2019)]()
+- [Game of Thrones (2011-2019)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/game_of_thrones.jpg"></a>
 </p>
 
-- [The Blacklist (2013 - 2023)]()
+- [The Blacklist (2013 - 2023)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/The_Blacklist.jpg"></a>
 </p>
 
-- [La Casa de Papel (2017 - 2021)]()
+- [La Casa de Papel (2017 - 2021)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler)
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Diziler#sevdi%C4%9Fim-diziler" title= diziler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/La_Casa_de_Papel.jpg"></a>
 </p>
 
@@ -84,25 +84,25 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 - [Siyah İnci (1877)]()
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/siyah_inci.jpeg"></a>
 </p>
 
 - [Küçük Prens (1943)]()
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/kucuk_prens.jpg"></a>
 </p>
 
 - [Warcraft: Durotan (2016)]()
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft_durotan.jpg"></a>
 </p>
 
 - [Warcraft (2016)]()
 
-<p style="padding-left:25px">
+<p style="padding-left:40px">
 <a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft.jpg"></a>
 </p>
 
