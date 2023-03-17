@@ -82,28 +82,28 @@ Hakkımda daha fazla bilgi edinmek istiyorsanız, bana bir mesaj göndersiniz ve
 
 **3.Kitaplar**
 
-- [Siyah İnci (1877)]()
+- [Siyah İnci (1877)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar)
 
 <p style="padding-left:40px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/siyah_inci.jpeg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar" title= kitaplar> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/siyah_inci.jpeg"></a>
 </p>
 
-- [Küçük Prens (1943)]()
+- [Küçük Prens (1943)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar)
 
 <p style="padding-left:40px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/kucuk_prens.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar" title= kitaplar> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/kucuk_prens.jpg"></a>
 </p>
 
-- [Warcraft: Durotan (2016)]()
+- [Warcraft: Durotan (2016)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar)
 
 <p style="padding-left:40px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft_durotan.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar" title= kitaplar> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft_durotan.jpg"></a>
 </p>
 
-- [Warcraft (2016)]()
+- [Warcraft (2016)](https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar)
 
 <p style="padding-left:40px">
-<a href="Filmler........." title= filmler> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft.jpg"></a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2/Kitaplar#sevdi%C4%9Fim-kitaplar" title= kitaplar> <img width="150px" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-2/Img/warcraft.jpg"></a>
 </p>
 
 <h3><em>~ Kaynakça ~ </em></h3>
