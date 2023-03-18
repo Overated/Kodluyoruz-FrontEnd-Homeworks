@@ -24,7 +24,7 @@ _While I was having my first experience of making a website with the 1st Assignm
 
 <div>
 <h3>
-<a style="color:red" href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-1#atakan-ertek"><strong>Homework - 1</strong></a><br>
+<a style="color:red" href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-1#kodluyoruz-%C3%B6dev-1"><strong>Homework - 1</strong></a><br>
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-1#atakan-ertek" title="Insertion-Sort-Projesi">
 <img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Kodluyoruz-FrontEnd-Homeworks&theme=react&border_color=61dafb&border_radius=20"></a>
 </div>
@@ -33,7 +33,7 @@ _While I was having my first experience of making a website with the 1st Assignm
 
 <div>
 <h3>
-<a style="color:yellow" href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2#atakan-ertek"><strong>Homework - 2</strong></a><br>
+<a style="color:yellow" href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2#kodluyoruz-%C3%B6dev-2"><strong>Homework - 2</strong></a><br>
 <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-2#atakan-ertek" title="Insertion-Sort-Projesi">
 <img align="left" height="145" src="https://github-readme-stats.vercel.app/api/pin/?username=Overated&repo=Kodluyoruz-FrontEnd-Homeworks&theme=react&border_color=61dafb&border_radius=20"></a>
 </div>
