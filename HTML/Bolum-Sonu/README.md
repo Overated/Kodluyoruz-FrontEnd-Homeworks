@@ -53,6 +53,7 @@ Quo nobis harum nemo tempore.
 # Üçüncü Yazı
 
 ![üçüncü resim](https://picsum.photos/id/613/600/300)
+
 Lorem ipsum dolor sit amet.
 
 Unde enim magni tempore. Velit.
