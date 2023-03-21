@@ -1,5 +1,5 @@
 <nav align="right">
- <a value="english" href="Eng.html">EN</a>
+ <a href="Eng.html">EN</a>
  <img for="lang-select" height="11px" src="Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
 </nav>
 <nav align="center">
@@ -7,20 +7,20 @@
 </nav>
 <br>
 
-**<h1 style="color:#751cdb" align="center">~ Oreo Truffles ~</h1>**
+**<h1 align="center">~ Oreo Truffles ~</h1>**
 
 <em> Bu Oreo Truffles, bir tatlının olabileceği kadar sorunsuz! Bunları yapmak için tek yapmanız gereken, ince kıyılmış Oreo kırıntılarını, krem peyniri ve vanilya özünü bir araya gelene kadar karıştırmak, ardından küçük bir kurabiye kaşığı kullanarak karışımın toplarını almak ve sertleşene kadar, yaklaşık 30 dakika kadar dondurmaktır. Sertleştikten sonra onları eritilmiş çikolataya batırın (bizimkini hindistancevizi yağıyla karıştırıyoruz), sertleşmelerine izin verin ve... bitirdiniz!\*
 
-<p align="right"><b style="color:#751cdb">Tarif:</b> Lauren Miyashiro</p>
+<p align="right"><b>Tarif:</b> Lauren Miyashiro</p>
 </em>
 
 <hr>
 <br>
 <article align="center">
-            <ins><b style="color:#751cdb">KAÇ KİŞİLİK:</b> 12 Kişilik | <b style="color:#751cdb">ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b style="color:#751cdb">HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b style="color:#751cdb">KAL/PORS:</b> 426</ins>
+            <ins><b>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</ins>
 </article>
 
-**<u><h2 style="color:#751cdb">Malzemeler Listesi</h2></ins>**</u>
+**<u><h2>Malzemeler Listesi</h2></ins>**</u>
 
 - 1 (400 gr.) paket Oreos
 - 230 gr. krem peynir, yumuşatılmış
@@ -33,7 +33,7 @@
             <img style="border-radius: 15%;" height="200px" src="img/oreo-truffles-pin-1544220958.jpg" alt="oreo-truffles-pin-1544220958">
 </article>
 
-**<u><h2 style="color:#751cdb">Talimatlar</h2></ins>**</u>
+**<u><h2>Talimatlar</h2></ins>**</u>
 
 - **Adım 1**
   Kurabiyeleri incecik hale getirmemiz gerekiyor (bulgur tanesi kadar) bunun için bir mutfak robotu kullanın.
@@ -51,12 +51,11 @@
   Buzdolabında dondurulmuş toplarımızı hazırlamış olduğumuz sosla (eritilmiş beyaz çikolata/hindistan cevizi yağı) kaplanana kadar batırın ve fırın tepsisine geri koyun. Toplarımız sosla kaplandıktan sonra yarı tatlı çikolata ile üzerinde gezdirin. Çikolata sertleşene kadar dondurun, yaklaşık 15 dakika.
   <br><br>
 
-<p align="center" style="font-size: 22px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"><b style="color:#751cdb">Servise hazırsınız ...</b>
+## <p align="center"><b>Servise hazırsınız ...</b>
+
 </p>
 <article align="center">
             <img style="border-radius: 15%" height="400" src="img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
 </article>
 <hr>
-<footer align="center">
-            <a href="index.html">Ana Sayfa</a>
-</footer>
+<p align="center"><a href="index.html">Ana Sayfa</a></p>
