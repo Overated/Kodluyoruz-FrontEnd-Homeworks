@@ -17,7 +17,7 @@
 <hr>
 <br>
 <p align="center">
-<ins><b>YIELDS:</b> 12 Kişilik | <b>PREP TIME:</b> 5 dakka | <b>TOTAL TIME: </b> 1 hr 5 min | <b>CAL/SERV:</b> 426</ins>
+<ins><b>YIELDS:</b> 12 servings | <b>PREP TIME:</b> 5 mins | <b>TOTAL TIME: </b> 1 hr 5 min | <b>CAL/SERV:</b> 426</ins>
 </p>
 
 **<u><h2>Ingredients</h2></ins>**</u>
