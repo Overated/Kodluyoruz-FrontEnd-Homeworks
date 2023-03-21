@@ -17,7 +17,7 @@
 <hr>
 <br>
 <p align="center">
-<ins><b>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</ins>
+<u>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</u>
 </p>
 
 **<u><h2>Malzemeler Listesi</h2></ins>**</u>
@@ -36,18 +36,23 @@
 **<u><h2>Talimatlar</h2></ins>**</u>
 
 - **Adım 1**
+
   Kurabiyeleri incecik hale getirmemiz gerekiyor (bulgur tanesi kadar) bunun için bir mutfak robotu kullanın.
 
 - **Adım 2**
+
   Orta boy bir kaseye 2 yemek kaşığı ezilmiş kurabiye hariç hepsini ekleyin (üzerini süslemek için kullanılacağız). Krem peynir ve vanilyayı ekleyerek ve homojen bir şekilde birleşene kadar karıştırın.
 
 - **Adım 3**
+
   Bir fırın tepsisini yağlı kağıt ile döşeyin. Küçük bir kurabiye kaşığı kullanarak (yada elinizle istediğiniz büyüklükte), karışımı küçük toplar haline getirin. Hazırlamış olduğunuz topları fırın tepsisine yerleştirin ve yaklaşık 30 dakika hafifçe sertleşene kadar buzdolabında dondurun.
 
 - **Adım 4**
+
   Dondurulmuş topları dondurucudan çıkarmadan birkaç dakika önce **beyaz çikolatayı ve hindistancevizi yağını eritin:** Beyaz çikolatayı ve hindistancevizi yağını mikrodalgaya uygun bir kaseye ekleyin ve 1 dakika mikrodalgada(airfryer) pişirin veya ocakta bir kap yardımıylada aynı işlemi yapabilirsiniz. Karışım eriyene kadar beklemeye devam ediyoruz. İyice sıvılaştığı ve kaşık yardımıyla karıştırabileceğimiz zaman hazır olmuş demektir. Bu noktada erimiş olabilir, değilse 30 saniyelik aralıklarla kontrol etmeye devam edin.
 
 - **Adım 5**
+
   Buzdolabında dondurulmuş toplarımızı hazırlamış olduğumuz sosla (eritilmiş beyaz çikolata/hindistan cevizi yağı) kaplanana kadar batırın ve fırın tepsisine geri koyun. Toplarımız sosla kaplandıktan sonra yarı tatlı çikolata ile üzerinde gezdirin. Çikolata sertleşene kadar dondurun, yaklaşık 15 dakika.
   <br><br>
 
