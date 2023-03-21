@@ -1,6 +1,6 @@
 <p align="right">
  <a href="Eng.html">EN</a>
- <img for="lang-select" height="11px" src="Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
+ <img for="lang-select" height="11px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/730c9918cdaf8467bdda8d234eba5ff20b9d8532/HTML/Homework-3/Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
 </p>
 <p align="center">
 <a href="index.html">Ana Sayfa</a>
@@ -30,7 +30,7 @@
 - 1/2 su bardağı (100 gr.) yarı tatlı çikolata parçaları
 
 <p align="center">
-            <img style="border-radius: 15%;" height="200px" src="img/oreo-truffles-pin-1544220958.jpg" alt="oreo-truffles-pin-1544220958">
+            <img style="border-radius: 15%;" height="200px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-3/Img/oreo-truffles-pin-1544220958.jpg" alt="oreo-truffles-pin-1544220958">
 </p>
 
 **<u><h2>Talimatlar</h2></ins>**</u>
@@ -54,7 +54,7 @@
 ## <p align="center"><b>Servise hazırsınız ...</b></p>
 
 <p align="center">
-            <img style="border-radius: 15%" height="400" src="img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
+            <img style="border-radius: 15%" height="400" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-3/Img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
 </p>
 <hr>
 <p align="center"><a href="index.html">Ana Sayfa</a></p>
