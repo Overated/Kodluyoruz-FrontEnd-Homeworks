@@ -3,7 +3,7 @@
  <img for="lang-select" height="11px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/fcbc82e0c3f9eec9a10e71e4a1996cb0876b76dd/HTML/Homework-3/Img/Turkey-Flag.svg" alt="Turkey-Flag">
 </p>
 <p align="center">
-<a href="index.html">Home Page</a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/blob/main/HTML/Homework-3/Eng.Md#-oreo-truffles-">Home Page</a>
 </p>
 <br>
 
@@ -63,4 +63,4 @@
             <img style="border-radius: 15%" height="400" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-3/Img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
 </p>
 <hr>
-<p align="center"><a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-3#-oreo-truffles-">Home Page</a></p>
+<p align="center"><a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/blob/main/HTML/Homework-3/Eng.Md#-oreo-truffles-">Home Page</a></p>
