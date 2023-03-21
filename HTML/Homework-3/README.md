@@ -1,9 +1,9 @@
 <p align="right">
- <a href="Eng.html">EN</a>
+ <a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/blob/main/HTML/Homework-3/Eng.Md#-oreo-truffles-">EN</a>
  <img for="lang-select" height="11px" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/730c9918cdaf8467bdda8d234eba5ff20b9d8532/HTML/Homework-3/Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
 </p>
 <p align="center">
-<a href="index.html">Ana Sayfa</a>
+<a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-3#-oreo-truffles-">Ana Sayfa</a>
 </p>
 <br>
 
@@ -62,4 +62,4 @@
             <img style="border-radius: 15%" height="400" src="https://raw.githubusercontent.com/Overated/Kodluyoruz-FrontEnd-Homeworks/main/HTML/Homework-3/Img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
 </p>
 <hr>
-<p align="center"><a href="index.html">Ana Sayfa</a></p>
+<p align="center"><a href="https://github.com/Overated/Kodluyoruz-FrontEnd-Homeworks/tree/main/HTML/Homework-3#-oreo-truffles-">Ana Sayfa</a></p>
