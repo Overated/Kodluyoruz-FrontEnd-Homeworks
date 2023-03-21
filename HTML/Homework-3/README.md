@@ -17,7 +17,7 @@
 <hr>
 <br>
 <p align="center">
-<u>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</u>
+<u><b>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</u>
 </p>
 
 **<u><h2>Malzemeler Listesi</h2></ins>**</u>
