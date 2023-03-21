@@ -1,10 +1,10 @@
-<nav align="right">
+<p align="right">
  <a href="Eng.html">EN</a>
  <img for="lang-select" height="11px" src="Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
-</nav>
-<nav align="center">
+</p>
+<p align="center">
 <a href="index.html">Ana Sayfa</a>
-</nav>
+</p>
 <br>
 
 **<h1 align="center">~ Oreo Truffles ~</h1>**
@@ -16,9 +16,9 @@
 
 <hr>
 <br>
-<article align="center">
-            <ins><b>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</ins>
-</article>
+<p align="center">
+<ins><b>KAÇ KİŞİLİK:</b> 12 Kişilik | <b>ÖN HAZIRLIK SÜRESİ:</b> 5 dakka | <b>HAZIRLAMA SÜRESİ:</b> 1 saat 5 dakka | <b>KAL/PORS:</b> 426</ins>
+</p>
 
 **<u><h2>Malzemeler Listesi</h2></ins>**</u>
 
@@ -29,9 +29,9 @@
 - 2 yemek kaşığı~(30 gr.) hindistancevizi yağı
 - 1/2 su bardağı (100 gr.) yarı tatlı çikolata parçaları
 
-<article align="center">
+<p align="center">
             <img style="border-radius: 15%;" height="200px" src="img/oreo-truffles-pin-1544220958.jpg" alt="oreo-truffles-pin-1544220958">
-</article>
+</p>
 
 **<u><h2>Talimatlar</h2></ins>**</u>
 
@@ -51,11 +51,10 @@
   Buzdolabında dondurulmuş toplarımızı hazırlamış olduğumuz sosla (eritilmiş beyaz çikolata/hindistan cevizi yağı) kaplanana kadar batırın ve fırın tepsisine geri koyun. Toplarımız sosla kaplandıktan sonra yarı tatlı çikolata ile üzerinde gezdirin. Çikolata sertleşene kadar dondurun, yaklaşık 15 dakika.
   <br><br>
 
-## <p align="center"><b>Servise hazırsınız ...</b>
+## <p align="center"><b>Servise hazırsınız ...</b></p>
 
-</p>
-<article align="center">
+<p align="center">
             <img style="border-radius: 15%" height="400" src="img/oreo-balls-14-600x900.jpg" alt="oreo-balls-14-600x900">
-</article>
+</p>
 <hr>
 <p align="center"><a href="index.html">Ana Sayfa</a></p>
