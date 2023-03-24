@@ -23,11 +23,163 @@ body{
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    width: 20%;
-    height: auto;
+    width: auto;
+    height: 185px;
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+.iletisim-pic {
+    border: 2px solid #ddd;
+    border-radius: 5%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: auto;
+    height: 285px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.iletisim-baslik {
+    text-align: center;
+    color: #00ADB5;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* 
+
+-----------------anasayfa ürün resimleri ayarları ----------------------
+
+*/
+/*gitar resim */ 
+#product-main1 {
+    border: 3px solid #ddd;
+    border-radius: 75%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: auto;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+/* keman resim */
+#product-main2 {
+    border: 3px solid #ddd;
+    border-radius: 60%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: 160px;
+    margin-left: 303px;
+    position: sticky;
+    margin-top: 25px;
+}
+
+/*piyano resim */
+#product-main3 {
+    border: 3px solid #ddd;
+    border-radius: 50%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: auto;
+    margin-left: 530px;
+    position: absolute;
+    margin-top: -290px;
+}
+
+/*nefesliler resim */
+#product-main4 {
+    border: 3px solid #ddd;
+    border-radius: 50%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: auto;
+    margin-left: 150px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+/*davul resim*/
+#product-main5 {
+    border: 3px solid #ddd;
+    border-radius: 50%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: auto;
+    margin-left: 530px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+
+/*
+-------------------ana sayfa başlık ayarları -----------------------
+*/
+
+/* gitar ana başlık */
+#main-baslik {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 95px;
+}
+
+/* yaylılar ana başlık */
+#main-baslik2 {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -5px;
+    margin-left: 290px;
+}
+
+/* pianolar ana başlık */
+#main-baslik3 {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 625px;
+}
+/* nefesliler ana başlık */
+#main-baslik4 {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 210px;
+}
+/* davul ana başlık */
+#main-baslik5 {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 590px;
 }
 
 /* ürünler ana başlık ayarları */
@@ -67,6 +219,7 @@ body{
     font-size: 16px;
 }
 
+/* liste başlıkları */
 #SV200 {
     color: #616366;
     font-family: 'Roboto', sans-serif;
@@ -74,10 +227,28 @@ body{
     font-size: 12px;
 }
 
+/*şekilli mid başlık */
 #Bechstein {
     color: #616366;
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Slab', serif;
     font-size: 18px;
+    text-align: center;
+}
+
+/* hakkinda yazısı */
+
+.hakkinda {
+    color: #222831;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+}
+
+.hakkinda-baslik {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
     text-align: center;
 }
