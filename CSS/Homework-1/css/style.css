@@ -3,3 +3,65 @@
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Slab', serif; 
 ---- */
+
+body{
+    background-color: #EEEEEE;
+}
+
+/* başlık */
+
+.baslik {
+    text-align: center;
+    color: #393E46;
+}
+
+
+/* ürünler resim ayarları */
+.product-pic {
+    border: 2px solid #ddd;
+    border-radius: 15%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 20%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* ürünler ana başlık ayarları */
+.product-name {
+    color: #00ADB5;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+/* ürünler alt başlık ayarları */
+.baslik2 {
+    color: #00ADB5;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+
+/* ürünler yazı ayarları */
+.product-info {
+    color: #222831;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+}
+
+/* sayfalar arası geçiş başlıkları */
+
+.link-baslik {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px;
+}
