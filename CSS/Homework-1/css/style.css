@@ -37,6 +37,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Slab', serif;
     font-size: 20px;
+    font-weight: bold;
 }
 
 /* ürünler alt başlık ayarları */
@@ -64,4 +65,19 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
+}
+
+#SV200 {
+    color: #616366;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 12px;
+}
+
+#Bechstein {
+    color: #616366;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    text-align: center;
 }
