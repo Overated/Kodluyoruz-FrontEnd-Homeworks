@@ -30,6 +30,27 @@ body{
     display: block;
 }
 
+
+.header-baslik {
+    text-align: center;
+    color: #00ADB5;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* 005c61 */
+a:visited {  
+    color: #185ADB;  
+     }  
+     a:hover{  
+    color: #00ADB5;  
+     }  
+     a:active{  
+    color: red;  
+     }  
+
+
+/* İletişim resim ve yazı */
+
 .iletisim-pic {
     border: 2px solid #ddd;
     border-radius: 5%;
@@ -50,14 +71,45 @@ body{
 }
 
 /* 
+----------------- dil değiştirme buton ve bayrak ayarı ----------------------
+*/
+
+#TR {
+    text-align: right;
+    display:inline-flex;
+    font-size: 14px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+
+/* türk bayrağı */
+#flag1 {
+    object-position: right;
+    height: 13px;
+    width: 23px;
+    border: 1px solid black;
+}
+
+/* ingliz bayrağı */
+#flag2 {
+    object-position: right;
+    height: 12px;
+    width: auto;
+    border: 1px solid black;
+    
+}
+
+/* 
 
 -----------------anasayfa ürün resimleri ayarları ----------------------
 
 */
+
 /*gitar resim */ 
 #product-main1 {
     border: 3px solid #ddd;
-    border-radius: 75%;
+    border-radius: 15%;
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -65,19 +117,19 @@ body{
     width: auto;
     position: absolute;
     margin-top: 25px;
-    margin-left: 40px;
+    margin-left: 55px;
 }
 
 /* keman resim */
 #product-main2 {
     border: 3px solid #ddd;
-    border-radius: 60%;
+    border-radius: 20%;
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 280px;
     width: 160px;
-    margin-left: 303px;
+    margin-left: 400px;
     position: sticky;
     margin-top: 25px;
 }
@@ -85,13 +137,13 @@ body{
 /*piyano resim */
 #product-main3 {
     border: 3px solid #ddd;
-    border-radius: 50%;
+    border-radius: 20%;
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 280px;
     width: auto;
-    margin-left: 530px;
+    margin-left: 650px;
     position: absolute;
     margin-top: -290px;
 }
@@ -99,13 +151,13 @@ body{
 /*nefesliler resim */
 #product-main4 {
     border: 3px solid #ddd;
-    border-radius: 50%;
+    border-radius: 20%;
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 280px;
     width: auto;
-    margin-left: 150px;
+    margin-left: 20px;
     position: absolute;
     margin-top: 50px;
 }
@@ -113,13 +165,27 @@ body{
 /*davul resim*/
 #product-main5 {
     border: 3px solid #ddd;
-    border-radius: 50%;
+    border-radius: 20%;
     border-color: black;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     height: 280px;
     width: auto;
-    margin-left: 530px;
+    margin-left: 350px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+/*aksesuarlar resim*/
+#product-main6 {
+    border: 3px solid #ddd;
+    border-radius: 20%;
+    border-color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 280px;
+    width: auto;
+    margin-left: 715px;
     position: absolute;
     margin-top: 50px;
 }
@@ -137,7 +203,7 @@ body{
     font-size: 20px;
     position: absolute;
     margin-top: -5px;
-    margin-left: 95px;
+    margin-left: 110px;
 }
 
 /* yaylılar ana başlık */
@@ -148,7 +214,7 @@ body{
     font-size: 20px;
     position: absolute;
     margin-top: -5px;
-    margin-left: 290px;
+    margin-left: 390px;
 }
 
 /* pianolar ana başlık */
@@ -159,7 +225,7 @@ body{
     font-size: 20px;
     position: absolute;
     margin-top: -320px;
-    margin-left: 625px;
+    margin-left: 740px;
 }
 /* nefesliler ana başlık */
 #main-baslik4 {
@@ -169,7 +235,7 @@ body{
     font-size: 20px;
     position: absolute;
     margin-top: 15px;
-    margin-left: 210px;
+    margin-left: 110px;
 }
 /* davul ana başlık */
 #main-baslik5 {
@@ -179,7 +245,18 @@ body{
     font-size: 20px;
     position: absolute;
     margin-top: 15px;
-    margin-left: 590px;
+    margin-left: 400px;
+}
+
+/* aksesuarlar ana başlık */
+#main-baslik6 {
+    color: #00ADB5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 750px;
 }
 
 /* ürünler ana başlık ayarları */
