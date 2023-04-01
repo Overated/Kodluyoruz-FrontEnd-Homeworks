@@ -1,4 +1,6 @@
-# Kodluyoruz-FrontEnd-Homeworks
+# Kodluyoruz-FrontEnd-Homework 2
+
+## Css yardımı ile ikinci ödev
 
 <br >
 

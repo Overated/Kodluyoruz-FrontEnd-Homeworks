@@ -1,4 +1,4 @@
-# Kodluyoruz-FrontEnd-Homeworks
+# Kodluyoruz-FrontEnd-Homework 1
 
 ## Css yardımı ile ilk web sayfamızı oluşturmak
 
