@@ -1,0 +1,391 @@
+body{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    color: var(--third-color);
+    color: var(--fourth-color);
+    min-height:130vh;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+/* Ana tema renkleri */
+:root{
+    --primary-color: #F8F4EA;
+    --secondary-color: #579BB1;
+    --third-color: #E1D7C6;
+    --fourth-color: #ECE8DD;
+}
+
+/* dark tema renkleri */
+.dark-theme{
+    --primary-color: #222831;
+    --secondary-color: #EEEEEE;
+    --third-color: #393E46;
+    --fourth-color: #5d646e;
+}
+
+
+.full{
+    margin:auto;
+    position: relative;
+}
+
+/****************** üst headder ************************/
+.top{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-color: var(--third-color);
+    color: var(--secondary-color);
+    background-size: fill;
+    height: 180px;
+    width: 100%;
+    margin: 0px;
+    /* padding-right: 10px; */
+}
+
+/* Üst logo */
+.left-logo{
+    /* background-color: #185ADB; */
+    display: inline-flex;
+    /* top - sağ - alt - sol */
+    margin: 5px 0px 0px 50px;
+    order: 1;
+    float: left;
+}
+
+.logo{
+    height: 180px;
+    border-radius: 25%;
+}
+
+/*dark tema buttonu */
+.dark{
+    /* background-color: coral; */
+    display: inline-flex;
+    order: 3;
+    float: right;
+    padding: 5px 0px 0px 5px;
+}
+
+.moon{
+    height: 50px;
+    display: inline-block;
+    order: 3;
+}
+
+/******************** Ana Sayfa - Ürünler - İletişim *************/
+.main-title{
+    /* background-color: yellowgreen; */
+    color: var(--secondary-color);
+    padding: 20px;
+    margin-top: 50px;
+    order: 2;
+    display: inline-flex;
+    height: 100px;
+    /* margin-left: 50%;
+    margin-right: 50% */
+}
+
+.anasayfa{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.urunler{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.iletisim{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.hakkinda{
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+/********************** dil değişikliği En ->  Tr bölümü **************/
+.en-tr{
+    /* background-color: #00ADB5; */
+    text-align: right;
+    order: 4;
+    display: inline-flex;
+    height: 40px;
+    float: right;
+    padding-top: 10px;
+}
+
+/* En Bayrak resim */
+.english{
+    height: 30px;
+    width: 50px;
+    padding: 4px 5px 0px 5px;
+}
+
+/* En text */
+.en-text{
+    color: var(--secondary-color);
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    padding: 10 0;
+}
+
+/************* Linklere tıklanıldığındaki renkleri değiştirme **************/
+a:visited {  
+    color: var(--secondary-color);  
+     }  
+     a:hover{  
+    color: #00ADB5;  
+     }  
+     a:active{  
+    color: red;  
+}  
+
+/************************** Ana bölüm ********************/
+
+.main{
+    /* background-color: purple; */
+    /* margin-left: 13%;
+    margin-right: 50%; */
+    /* float: left; */
+    margin: 0px;
+}
+
+.box1{
+    /* background-color: yellowgreen; */
+    float: left;
+    margin: 10px 50px 0px 0%;
+    padding-left: 50px;
+    order: 0;
+}
+
+.gitar{
+    /* background-color: blue; */
+    display: inline-flex;
+    padding-top: 5px;
+    
+}
+
+.gitar-pic{
+    background-color: var(--fourth-color);
+    height: 480px;
+    border-radius: 50px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.gitar-txt{
+    color:var(--secondary-color);
+    font-size: 30px;
+    font-weight: bold;
+    /* background-color:red; */
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.box2{
+    /* background-color: yellow; */
+    float: left;
+    /* display: inline-flex; */
+    /* top - sağ - alt - sol */
+    margin: 10px 50px 0px 50px;
+    padding: 0px 0px 0px 50px;
+    order: 1;
+    
+}
+
+.keman{
+    /* background-color: blueviolet; */
+    display: inline-flex;
+    width: 300px;
+}
+
+.keman-pic{
+    background-color: var(--fourth-color);
+    height: 480px;
+    border-radius: 50px;
+    padding-top: 5px;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding-left: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.box3{
+    /* background-color: violet; */
+    float: left;
+    margin: 10px 50px 0px 50px;
+    padding: 0px 0px 0px 50px;
+    order: 2;
+}
+
+.aksesuar{
+    /* background-color: blueviolet; */
+    display: inline-flex;
+    /* width: 300px; */
+}
+
+.aksesuar-pic{
+    background-color: var(--fourth-color);
+    height: 480px;
+    border-radius: 50px;
+    padding-top: 5px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.aksesuar-txt{
+    /* background-color:violet; */
+    display: block;
+    text-align: center;
+    color:var(--secondary-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.clear{
+    clear: both;
+}
+
+.box4{
+    /* background-color: yellowgreen; */
+    float: left;
+    margin: 30px 0px 0px 12%;
+    padding: 10px 0px 0px 50px;
+    order: 0;
+}
+
+.nefes{
+    display:contents;
+}
+
+.nefes-pic{
+    background-color: var(--fourth-color);
+    height: 350px;
+    border-radius: 50px;
+    margin-top: 10px;
+    padding-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.box5{
+    /* background-color: yellow; */
+    float: left;
+    /* display: inline-flex; */
+    margin: 30px 50px 0px 60px;
+    padding: 0px 0px 0px 50px;
+    order: 2;
+}
+
+.bateriler{
+    display: contents;
+}
+
+.bateri-pic{
+    background-color: var(--fourth-color);
+    height: 350px;
+    border-radius: 50px;
+    padding-top: 5px;
+    margin-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bateriler-txt{
+    display: block;
+    text-align: center;
+    color:var(--secondary-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.box6{
+    float: left;
+    margin: 30px 50px 0px 0px;
+    padding: 0px 0px 0px 50px;
+    order: 2;
+}
+
+.piyano{
+    display: inline-flex;
+}
+
+.piyano-pic{
+    background-color: var(--fourth-color);
+    height: 330px;
+    border-radius: 50px;
+    margin-top: 10px;
+    padding-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.footer{
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.bot-title{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: var(--third-color);
+    text-align: center;
+}
+
+.bot-anasayfa{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.bot-urunler{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.bot-hakkinda{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.bot-iletisim{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 50px;
+}
+
+.bot-takimimiz{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding-right: 50px;
+}

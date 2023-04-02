@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Shop | Team</title>
+    <link rel="shortcut icon" href="img/title-icon.png" type="Music Shop" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/takim.css">
+</head>
+<body>
+     <!-- Üst bölüm -->
+   <header class="top">
+    <div class="left-logo">
+        <img src="img/title-icon.png" usemap="#image-map" class="logo">
+        <map name="image-map">
+            <area target="" alt="Logo" title="Logo" href="main.html" coords="0,-1,511,511" shape="rect">
+        </map>
+    </div>
+
+    <!-- Üst-Orta bölüm -->
+    <div class="main-title">
+        <a href="eng-main.html" class="anasayfa">Home Page</a>
+        <a href="products.html" class="urunler">Products</a>
+        <a href="contact.html" class="iletisim">Contact Us</a>
+    </div>
+    <div class="dark">
+        <img src="img/moon.png" alt="moon" class="moon" id="moon">
+    </div>
+    <!-- Üst-sağ bölüm -->
+    <div class="en-tr">
+        <a href="takımımız.html" class="en-text">TR</a>
+        <img src="img/Turkey-Flag.svg" alt="Turkey-Flag Flag" class="english">
+    </div>
+    </header>
+    <!-- Ana bölüm -->
+    <section>
+        <h2 id="team">Meet The Team</h2>
+            <p id="p1">Who we are ... </p>
+            <br>
+            <div class="row">
+            <div class="column">
+                <div class="card">
+                    <img src="img/team/pic2.jpg" alt="Jane" style="width:100%">
+                    <div class="container">
+                        <h2 id="team">Jane Doe</h2>
+                        <p class="title">CEO & Founder</p>
+                        <p class="title2">Some text that describes me lorem ipsum ipsum lorem.</p>
+                        <a href="tel:90909090" class="title1">+90909090</a>
+                        <p><a href="mailto:example@example.com" class="button">Contact</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column">
+                <div class="card">
+                    <img src="img/team/pic1.jpg" alt="Mike" style="width:100%">
+                    <div class="container">
+                        <h2 id="team">Mike Ross</h2>
+                        <p class="title">Sales Team Leader</p>
+                        <p class="title2">Some text that describes me lorem ipsum ipsum lorem.</p>
+                        <div class="title1">
+                            <a href="tel:90909092">+90909091</a>
+                        </div>
+                        
+                        <p><a href="mailto:example@example.com" class="button">Contact</a></p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="column">
+                <div class="card">
+                    <img src="img/team/pic3.jpg" alt="John" style="width:100%">
+                    <div class="container">
+                        <h2 id="team">John Doe</h2>
+                        <p class="title">Logistics Team Leader</p>
+                        <p class="title2">Some text that describes me lorem ipsum ipsum lorem.</p>
+                        <a href="tel:90909092" class="title1">+90909092</a>
+                        <p><a href="mailto:example@example.com" class="button">Contact</a></p>
+                    </div>
+                </div>
+            </div>
+            </div>
+            
+
+
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="bot-title">
+            <a href="eng-main.html" class="bot-anasayfa">Home Page</a>
+            <a href="products.html" class="bot-urunler">Products</a>
+            <a href="about-us.html" class="bot-hakkinda">About Us</a>
+            <a href="contact.html" class="bot-iletisim">Contact Us</a>
+            <a href="team.html" class="bot-takimimiz">Our Team</a>
+        </div>
+    </footer>
+    <!-- Dark tema tıklandığında renk değiştirmesi için script -->
+    <script>
+        var moon = document.getElementById("moon");
+        moon.onclick = function(){
+            document.body.classList.toggle("dark-theme");
+            // dark tema tıklandığında icon değişmesi için script
+            if(document.body.classList.contains("dark-theme")){
+                moon.src = "img/sun.png";
+            }else{
+                moon.src = "img/moon.png";
+            }
+        }
+    </script>
+</body>
+</html>

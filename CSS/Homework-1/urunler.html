@@ -5,40 +5,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Müzik Dükkanım | Ürünler</title>
+    <link rel="shortcut icon" href="img/title-icon.png" type="Müzik Dükkanım" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@100&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/urunler.css">
 </head>
 <body>
-    <header>
-        <!-- Ana başlık butonlar -->
-        <nav id="TR" class="TR">
-            <a value="english" href="products.html">EN</a>
-            <a hidden value="turkish" href="index.html">TR</a>
-            <img id="flag2" for="lang-select" height="16px" src="Img/United-Kingdom-Flag.svg" alt="United-Kingdom-Flag">
-        </nav>
-        <nav class="baslik">
-            <a href="index.html">Anasayfa</a> |
-            <a href="urunler.html">Ürünlerimiz</a> |
-            <a href="hakkimizda.html">Hakkımızda</a>
-            <!-- Dil değiştirme -->
-            <!-- bayrak resim -->
-            <hr>
-        </nav>
+    <!-- Üst bölüm -->
+    <header class="top">
+        <div class="left-logo">
+            <img src="img/title-icon.png" usemap="#image-map" class="logo">
+            <map name="image-map">
+                <area target="" alt="Logo" title="Logo" href="main.html" coords="0,-1,511,511" shape="rect">
+            </map>
+        </div>
+
+        <!-- Üst-Orta bölüm -->
+        <div class="main-title">
+            <a href="main.html" class="anasayfa">Ana Sayfa</a>
+            <a href="urunler.html" class="urunler">Ürünler</a>
+            <a href="iletisim.html" class="iletisim">İletişim</a>
+        </div>
+        <div class="dark">
+            <img src="img/moon.png" alt="moon" class="moon" id="moon">
+        </div>
+        <!-- Üst-sağ bölüm -->
+        <div class="en-tr">
+            <a href="eng-main.html" class="en-text">EN</a>
+            <img src="img/United-Kingdom-Flag.svg" alt="English Flag" class="english">
+        </div>
     </header>
+    <!-- Ana bölüm -->
     <section>
-        <a class="link-baslik" href="Urunler/Gitarlar/gitar.html">
-            <h2>Gitarlar</h2>
+        <a class="urunler-baslik" href="Urunler/Gitarlar/gitar.html">
+           <h2 class="urunler-baslik">Gitarlar</h2> 
         </a>
         <article>
             <ul>
-                <li class="baslik2">Klasik Gitarlar
+                <li><h3 class="alt-baslik">Klasik Gitarlar</h3>
                     <p class="product-info">
                         Klasik gitar, klasik müzikten bossa nova ve caza kadar çok çeşitli müzik türlerini çalabilir. Mini orkestra olarak adlandırılan klasik gitar, etkileyici bir tını yelpazesini kapsar.
                     </p>
                     <a href="Urunler/Gitarlar/gitar.html">
-                        <img class="product-pic" src="img/gitar/klasik/klasik2.webp" alt="Klasik Gitar">
+                        <img class="product-pic" src="img/gitar/klasik/klasik2.png" alt="Klasik Gitar">
                     </a>
                 </li>
                 <li class="baslik2">Akustik Gitar
@@ -46,7 +56,7 @@
                         Bir gitarın tınısı gövdesi tarafından belirlenir. Çoğu insan bir gitarın içine hiç bakmamıştır ve fark etmeyebilir, ancak gitarlar aslında çok zekice tasarlanmıştır.
                     </p>
                     <a href="Urunler/Gitarlar/gitar.html">
-                        <img class="product-pic" src="img/gitar/akustik/akustik1.jpg" alt="Akustik Gitar">
+                        <img class="product-pic" src="img/gitar/akustik/akustik1.png" alt="Akustik Gitar">
                     </a>
                 </li>
                 <li class="baslik2">Elektro Gitar
@@ -54,7 +64,7 @@
                         Sesi yükseltmek için elektrik kullanılsa da, gövde ve boyun yalnızca tahta parçalarıdır. Bu enstrümanlar benzersiz şekil ve renklerde gelir.
                     </p>
                     <a href="Urunler/Gitarlar/gitar.html">
-                        <img class="product-pic" src="img/gitar/elektro/elektro1.jpg" alt="Elektro Gitar">
+                        <img class="product-pic" src="img/gitar/elektro/elektro1.png" alt="Elektro Gitar">
                     </a>
                 </li>
                 <li class="baslik2">Bass Gitar
@@ -62,7 +72,7 @@
                         Bas gitar, çoğu müzik türünde ve grupta temel enstrümandır. Birden fazla farklı rol üstlenebilirler, ancak harika bir basçının anahtarı tutarlılık ve zamanlamadır. Bir basın ana işlevi, miksajdaki alt uçları tutmak ve grubun sıkı bir ritmik kalıpta çalmasını sağlamaktır.
                     </p>
                     <a href="Urunler/Gitarlar/gitar.html">
-                        <img class="product-pic" src="img/gitar/bass/bass1.jpg" alt="Bass Gitar">
+                        <img class="product-pic" src="img/gitar/bass/bass1.png" alt="Bass Gitar">
                     </a>
                 </li>
             </ul>
@@ -80,7 +90,7 @@
                         İster zarif bir solo çalıyor olun, ister orkestranın kalbi olun, keman müzik dünyasının bir “yıldızı”dır.
                     </p>
                     <a href="Urunler/Yaylilar/Yayli.html">
-                        <img class="product-pic" src="img/yaylilar/keman/keman2.webp" alt="Keman">
+                        <img class="product-pic" src="img/yaylilar/keman/keman2.png" alt="Keman">
                     </a>
                 </li>
                 <li class="baslik2">Elektro Keman
@@ -88,7 +98,7 @@
                         Elektro keman, sesinin elektronik çıkışı ile donatılmış bir kemandır. Terim, en uygun şekilde, genellikle katı bir gövdeye sahip yerleşik alıcılarla elektrikli hale getirilmek üzere kasıtlı olarak yapılmış bir enstrümanı ifade eder.
                     </p>
                     <a href="Urunler/Yaylilar/Yayli.html">
-                        <img class="product-pic" src="img/yaylilar/Elektro/elektro1.jpg" alt="Elektro Keman">
+                        <img class="product-pic" src="img/yaylilar/Elektro/elektro1.png" alt="Elektro Keman">
                     </a>
                 </li>
                 <li class="baslik2">Viyola
@@ -96,7 +106,7 @@
                         Viyola, çeşitli tekniklerle eğilen, koparılan veya çalınan telli bir çalgıdır. Bir kemandan biraz daha büyük, daha alçak ve daha derin bir sesi vardır.
                     </p>
                     <a href="Urunler/Yaylilar/Yayli.html">
-                        <img class="product-pic" src="img/yaylilar/Viyola/viola1.webp" alt="Viyola">
+                        <img class="product-pic" src="img/yaylilar/Viyola/viola1.png" alt="Viyola">
                     </a>
                 </li>
                 <li class="baslik2">Çello
@@ -104,7 +114,7 @@
                         Çello veya viyolonsel, mükemmel beşte bire ayarlanan dört telli yaylı bir telli çalgıdır. Çello, solo müzik aleti olarak kullanıldığı gibi, oda müziği topluluklarında, yaylı çalgılar orkestralarında, senfoni orkestralarının yaylılar bölümünün üyesi olarak ve bazı rock gruplarında kullanılmaktadır. Modern senfoni orkestrasındaki en büyük ikinci yaylı çalgıdır ve kontrbas en büyüğüdür.
                     </p>
                     <a href="Urunler/Yaylilar/Yayli.html">
-                        <img class="product-pic" src="img/yaylilar/cello/cello2.webp" alt="Çello">
+                        <img class="product-pic" src="img/yaylilar/cello/cello2.png" alt="Çello">
                     </a>
                 </li>
                 <li class="baslik2">Kontrabaslar
@@ -112,7 +122,7 @@
                         Kontrbas veya bazen bilindiği şekliyle kontrbas, modern bir klasik senfoni orkestrasındaki en büyük ve en düşük perdeli yaylı çalgıdır. Keman, viyola ve çello ile birlikte kontrbas, yaylı çalgılar bölümünün bir parçasıdır ve sıcak, derin tonuyla orkestrayı destekler - ama aynı zamanda caz, blues, rock and roll, country, bluegrass, tango ve folkta da popüler bir enstrümandır.
                     </p>
                     <a href="Urunler/Yaylilar/Yayli.html">
-                        <img class="product-pic" src="img/yaylilar/Kontrabaslar/kontra1.jpg" alt="Kontrabaslar">
+                        <img class="product-pic" src="img/yaylilar/Kontrabaslar/kontra1.png" alt="Kontrabaslar">
                     </a>
                 </li>
             </ul>
@@ -133,7 +143,7 @@
                         Duvar piyanosu, ses tahtası ve tel düzleminin klavyeye dik olarak ve dikey olarak ilerlediği için normal kuyruklu piyanodan daha az yer kaplayan bir müzik aletidir.
                     </p>
                     <a href="Urunler/Piyanolar/piyano.html">
-                        <img class="product-pic" src="img/piyanolar/duvar/duvar1.jpg" alt="Duvar Piyanoları">
+                        <img class="product-pic" src="img/piyanolar/duvar/duvar1.png" alt="Duvar Piyanoları">
                     </a>
                 </li>
                 <li class="baslik2">Kuyruklu Piyanolar
@@ -141,7 +151,7 @@
                         Bir kuyruklu piyano, telleri yere yatay olarak yerleştirilmiş büyük bir piyanodur. Kuyruklu piyanolar özellikle konser vermek ve kayıt yapmak için kullanılır.
                     </p>
                     <a href="Urunler/Piyanolar/piyano.html">
-                        <img class="product-pic" src="img/piyanolar/kuyruklu/kuyruklu3.jpg" alt="Kuyruklu Piyanolar">
+                        <img class="product-pic" src="img/piyanolar/kuyruklu/kuyruklu1.png" alt="Kuyruklu Piyanolar">
                     </a>
                 </li>
                 <li class="baslik2">Dijital Piyanolar
@@ -149,7 +159,7 @@
                         Dijital piyanolar, birden fazla dahili hoparlörden biri aracılığıyla çalınan akustik piyanonun sentezlenmiş emülasyonunu veya kaydedilmiş örneklerini kullanır. Ayrıca akustik piyano hissini yeniden yaratan ağırlıklı tuşlar içerirler.
                     </p>
                     <a href="Urunler/Piyanolar/piyano.html">
-                        <img class="product-pic" src="img/piyanolar/duvar-elektro/digital3.jpg" alt="Dijital Piyanolar">
+                        <img class="product-pic" src="img/piyanolar/duvar-elektro/digital3.png" alt="Dijital Piyanolar">
                     </a>
                 </li>
                 <li class="baslik2">Dijital Kuyruklu Piyanolar
@@ -157,7 +167,7 @@
                         Geleneksel kuyruklu piyanoların aksine, ses seviyesi yumuşak fon müziğinden konser ses seviyelerine kadar kontrol edilebilir. Hatta bazı modeller, hareketli tuşlarla tamamlanmış sanal surround ses ve dijital "çalar-piyano" özellikleri sunar. Klavyenin hareketi, inanılmaz bir doğrulukla gerçek bir akustik piyano hissini simüle eder.
                     </p>
                     <a href="Urunler/Piyanolar/piyano.html">
-                        <img class="product-pic" src="img/piyanolar/kuyruklu-elektro/digi1.jpg" alt="Dijital Kuyruklu Piyanolar">
+                        <img class="product-pic" src="img/piyanolar/kuyruklu-elektro/digi1.png" alt="Dijital Kuyruklu Piyanolar">
                     </a>
                 </li>
             </ul>
@@ -175,7 +185,7 @@
                         Klarnetin cazibesi, hafif bir tınıdan derin, gizemli bir tınıya kadar uzanan zengin ifade çeşitliliğinde yatmaktadır. Aynı zamanda yaklaşık dört oktavlık bir sicile sahiptir - herhangi bir üflemeli enstrümanın en büyüğü.
                     </p>
                     <a href="Urunler/Nefesliler/uflemeli.html">
-                        <img class="product-pic" src="img/nefesliler/klarnetler/klarnet3.webp" alt="Klarnetler">
+                        <img class="product-pic" src="img/nefesliler/klarnetler/klarnet3.png" alt="Klarnetler">
                     </a>
                 </li>
                 <li class="baslik2">Yan Flütler
@@ -183,7 +193,7 @@
                         Çoğunlukla melodik bir enstrüman olan flüt, tonunda belirgin bir sıcaklık, incelik ve incelik ile net ve parlak bir sese sahiptir. Flütün bir diğer özelliği de yapımında altın, gümüş ve değerli taşlar gibi pahalı malzemelerin kullanılmasıdır.
                     </p>
                     <a href="Urunler/Nefesliler/uflemeli.html">
-                        <img class="product-pic" src="img/nefesliler/yan-flut/flut3.jpg" alt="Yan Flütler">
+                        <img class="product-pic" src="img/nefesliler/yan-flut/flut4.png" alt="Yan Flütler">
                     </a>
                 </li>
             </ul>
@@ -201,7 +211,7 @@
                         "Ritmin koruyucusu" olarak davul, müziğin genel sesinin temelini oluşturur. Davul ses çıkarması için sadece vurulması gerektiğinden, aynı zamanda en basit enstrümanlardan biridir.
                     </p>
                     <a href="Urunler/Davul/davul.html">
-                        <img class="product-pic" src="img/davul/davullar/davul1.jpg" alt="Davullar">
+                        <img class="product-pic" src="img/davul/davullar/davul1.png" alt="Davullar">
                     </a>
                 </li>
                 <li class="baslik2">Elektronik Bateriler
@@ -209,18 +219,34 @@
                         Elektronik bateriler, öncelikle akustik davul setine alternatif olarak hizmet etmek üzere tasarlanmış modern bir elektronik müzik aletidir.
                     </p>
                     <a href="Urunler/Davul/davul.html">
-                        <img class="product-pic" src="img/davul/elektro/elektro1.jpg" alt="Elektronik Davullar">
+                        <img class="product-pic" src="img/davul/elektro/elektro1.png" alt="Elektronik Davullar">
                     </a>
                 </li>
             </ul>
         </article>
     </section>
     <hr>
-    <footer class="baslik">
-        <a href="index.html">Anasayfa</a> |
-        <a href="urunler.html">Ürünlerimiz</a> |
-        <a href="hakkimizda.html">Hakkımızda</a> |
-        <a href="iletisim.html">İletişim</a>
+    <footer class="footer">
+        <div class="bot-title">
+            <a href="main.html" class="bot-anasayfa">Ana Sayfa</a>
+            <a href="urunler.html" class="bot-urunler">Ürünler</a>
+            <a href="hakkimizda.html" class="bot-hakkinda">Hakkımızda</a>
+            <a href="iletisim.html" class="bot-iletisim">İletişim</a>
+            <a href="takımımız.html" class="bot-takimimiz">Takımımız</a>
+        </div>
     </footer>
+    <!-- Dark tema tıklandığında renk değiştirmesi için script -->
+    <script>
+        var moon = document.getElementById("moon");
+        moon.onclick = function(){
+            document.body.classList.toggle("dark-theme");
+            // dark tema tıklandığında icon değişmesi için script
+            if(document.body.classList.contains("dark-theme")){
+                moon.src = "img/sun.png";
+            }else{
+                moon.src = "img/moon.png";
+            }
+        }
+    </script>
 </body>
 </html>
