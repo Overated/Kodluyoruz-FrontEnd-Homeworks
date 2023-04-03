@@ -16,6 +16,9 @@ body{
     --fourth-color: #ECE8DD;
     --fifth-color: #00ADB5;
     --sixth-color: #000000;
+    --seven-color: #2F58CD;
+    --eight-color: #65647C;
+    --nine-color: #59C1BD;
 }
 
 /* dark tema renkleri */
@@ -24,8 +27,11 @@ body{
     --secondary-color: #EEEEEE;
     --third-color: #393E46;
     --fourth-color: #5d646e;
-    --fifth-color: #ECE8DD;
+    --fifth-color: #FF8400;
     --sixth-color: #E3FDFD;
+    --seven-color: #F99417;
+    --eight-color: #FF6E31;
+    --nine-color: #EB6440;
 }
 
 .top{
@@ -161,7 +167,7 @@ a:visited {
 }
 
 .baslik2{
-    color: var(--secondary-color);
+    color: var(--eight-color);
     font-size: 30px;
 }
 
@@ -173,7 +179,7 @@ a:visited {
 }
 
 #Bechstein{
-    color: var(--sixth-color);
+    color: var(--nine-color);
     font-weight: bold;
     font-style: italic;
     text-align: center;

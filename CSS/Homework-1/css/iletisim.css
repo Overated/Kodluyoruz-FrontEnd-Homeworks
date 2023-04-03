@@ -16,6 +16,8 @@ body{
     --fourth-color: #ECE8DD;
     --fifth-color: #00ADB5;
     --sixth-color: #000000;
+    --seven-color: #2F58CD;
+    --eight-color: #65647C;
 }
 
 /* dark tema renkleri */
@@ -24,8 +26,10 @@ body{
     --secondary-color: #EEEEEE;
     --third-color: #393E46;
     --fourth-color: #5d646e;
-    --fifth-color: #ECE8DD;
+    --fifth-color: #FF8400;
     --sixth-color: #E3FDFD;
+    --seven-color: #F99417;
+    --eight-color: #FF6E31;
 }
 
 .top{
@@ -150,15 +154,61 @@ a:visited {
      }  
      a:active{  
     color: red;  
-}  
+    }
+    a{  
+        color: var(--seven-color);  
+}    
 
 /******* Ana Bölüm *****************/
 .iletisim-baslik{
     font-size: 50px;
     text-align: center;
-    color: var(--secondary-color);
+    color: var(--fifth-color);
 }
 
+.iletisim-pic{
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.container{
+    /* background-color: yellow; */
+    display: block;
+    margin: auto;
+    width: fit-content;
+    text-decoration: none;
+}
+
+#address1{
+    text-align: center;
+    color: var(--eight-color);
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+#address2{
+    color: var(--sixth-color);
+    font-size: 18px;
+    display: block;
+    margin: auto;
+    width: fit-content;
+    /* background-color: violet; */
+}
+
+#info{
+    color: var(--sixth-color);
+    text-align: center;
+    list-style: none;
+    font-size: 20px;
+    /* background-color: chartreuse; */
+    display: inline-block;
+    text-decoration: none;
+}
+
+.tel-mail{
+    text-decoration: none;
+}
 
 /************** Footer ***************************/
 .footer{
