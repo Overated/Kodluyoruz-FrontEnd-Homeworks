@@ -1,16 +1,102 @@
-body{
-    color:#E9ECEF;
+/* Ana tema renkleri */
+:root{
+    --body-color: #E9ECEF;
+    --header-color: #8d929b;
+    --textlight-color: #F9F9F9;
+    --textdark-color: #ECE8DD;
+    --copyright-color: #F9F9F9;
+    --footerblok-color: #1C1C1C;
+    --card-color: #b1b7c2;
+    --card-text: #212529;
+
 }
 
+/* dark tema renkleri */
+.dark-theme{
+    --body-color: #222831;
+    --header-color: #393E46;
+    --textlight-color: #EEEEEE;
+    --textdark-color: #1C1C1C;
+    --copyright-color: #1C1C1C;
+    --footerblok-color: #E9ECEF;
+    --card-color: #515863;
+    --card-text: #FFFFFF;
+}
 
+/* dark tema button */
+.moon{
+    /*top - left - bot - right */
+    margin: 10px 0px 0px 3%;
+    height: 30px;
+    display: inline-block;
+}
+
+/* logo */
+.music{
+    width: 100%;
+}
+
+/* En Bayrak resim */
+.english{
+    /* background-color: red; */
+    margin: 7px 3% 0px 0px;
+    float: right;
+    height: 20px;
+    width: 40px;
+    padding: 4px 5px 0px 5px;
+}
+
+/* En text */
+.en-text{
+    /* background-color: green; */
+    margin-top: 7px;
+    float: right;
+    color: var(--textlight-color);
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Ana sayfadaki flüt resim ayarları */
 #flut{
-    padding-top: 40%;
-    padding-bottom: 10%;
+    padding: 40% 5% 10% 5%;
 }
 
+/* Footer en alt kısımdaki linklerin ayarları */
 .footer-link{
-    color: white;
+    color: #F9F9F9;
     float: left;
     margin-right: 15px;
     margin-top: 15%;
+}
+
+/*card boxların içindeki text ayarı */ 
+.card-text{
+    font-size: 14px;
+}
+
+
+/* resimler için hover */
+.pic1:hover{
+    -webkit-transform: scale(1);
+	transform: scale(1.15);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+/************* Linklere tıklanıldığındaki renkleri değiştirme **************/
+a:visited {  
+    color: var(--textlight-color);  
+     }  
+     a:hover{  
+    color: #00ADB5;  
+     }  
+     a:active{  
+    color: red;  
+}
+
+/* takımımız resimler */
+.team-pic{
+    border-radius: 50px;
+    width: 100%;
 }
