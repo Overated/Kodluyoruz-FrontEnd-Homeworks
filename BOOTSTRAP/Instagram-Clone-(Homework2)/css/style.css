@@ -5,8 +5,18 @@ body{
 
 /*instagram logosu */
 .insta-logo{
-    padding: 2rem;
-    width: 53%;
+    /* padding: 2rem; */
+    width: 32%;
+    margin: 25px;
+    padding: 15px 0px 10px 0px;
+}
+
+/*instagram medium ekran logosu */
+.insta-logo-med{
+    width: 35px;
+    margin-left: 30px;
+    /* top right bot left */
+    padding: 20px 0px 30px 10px;
 }
 
 .list {
@@ -17,10 +27,10 @@ body{
 
 a.list:hover{
     color: black;
-}
-
-.liststyle:hover{
-    color: purple;
+} a.list:current{
+    font-weight: 600;
+} a.list:focus-within {
+    font-weight: 600;
 }
 
 .liststyle{
@@ -53,9 +63,10 @@ a.list:hover{
 .abc:hover{
     border-radius: 5px;
     background-color: #EBEDF0;
-}
-
-.abc:active{
+} .abc:active{
+    font-weight: 600;
+    color: yellowgreen;
+} .abc:focus-within {
     font-weight: 600;
 }
 
@@ -67,6 +78,7 @@ a.list:hover{
     order: 1;
     padding-left: 30px;
     offset: 5px;
+    font-size: 16px;
 }
 
 /* sol nav bar icon ayarları*/
@@ -79,6 +91,20 @@ a.list:hover{
     padding-bottom: 5px;
 }
 
+/* sol nav bar sağ çizgi */
+#sol-line{
+    border-right: 1px solid #CCCCCC;
+    min-height: 65rem;
+}
+
+.col-1-5 {
+    flex: 0 0 12.3%;
+    max-width: 12.3%;
+    position: relative;
+    width: 100%;
+    /* padding-right: 15px;
+    padding-left: 15px; */
+}
 
 .col-2-5 {
     flex: 0 0 17.9%;
@@ -107,6 +133,15 @@ a.list:hover{
     padding-left: 15px;
 }
 
+.col-4-5{    
+    flex: 0 0 37.5%;
+    max-width: 37.5%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
 /* sol nav bardaki profil resmi ayarları */
 #left-profil-pic{
     width: 45px;
@@ -116,3 +151,23 @@ a.list:hover{
     padding-bottom: 5px;
     padding-right: 10px;
 }
+
+/* Story bölümü */
+.story-pic{
+    width: 60px;
+    height: 60px;
+    /* top right bot left */
+    margin: 50px 3px 5px 5px;
+    /* story border */
+    border-radius: 50%;
+    background: linear-gradient(to right, red, orange);
+    padding: 3px;
+}
+
+.story-text{
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 6px;
+    color: #000000;
+}
+
