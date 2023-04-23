@@ -234,15 +234,17 @@ a.list:hover{
 
 .main-pic{
     width: 100%;
-    margin: 0 auto;
+    margin-top: 5px;
     padding: 0;
     bottom: 0;
     left: 0;
     right: 0;
     top: 0;
     align-items: stretch;
-    border: 0;
+    border: 1px;
+    border-color: #CCCCCC;
     box-sizing: border-box;
+    border-style: ridge;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -273,4 +275,46 @@ div{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     display: block;
+}
+
+.comment-pic{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.main-icon{
+    width: 27px;
+    height: 27px;
+    margin-right: 5px;
+}
+
+
+/*********** TOOLTIP *****************/
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+  
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip:active .tooltiptext {
+    visibility: visible;
 }
